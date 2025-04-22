@@ -1,0 +1,33 @@
+body{
+	background-image: url(sbb.jpg);
+	background-size: cover;
+	color: #FF929A;
+	font-family: monospace;
+}
+
+.container {
+	box-shadow: 10px 5px 5px dimgray;
+	background-color: #FFEEEF;
+	padding: 20px;
+	border-radius: 8px;	
+}
+
+.btn {
+	border-radius: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #FF929A;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 3px solid lightgreen;
+  text-align: left;
+  padding: 8px;
+}
